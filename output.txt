@@ -1,0 +1,144 @@
+
+Belk
+ Duke 0.60
+ Grigg 1.20
+ Health 0.50
+ Woodward 0.25
+
+Duke
+ Belk 0.60
+ Education 0.30
+ Grigg 1.60
+ Woodward 0.67
+
+Education
+ Duke 0.30
+ Health 0.45
+ Woodward 1.30
+
+Grigg
+ Belk 1.20
+ Duke 1.60
+ Woodward 1.10
+
+Health
+ Belk 0.50
+ Education 0.45
+ Woodward 0.70
+
+Woodward
+ Belk 0.25
+ Duke 0.67
+ Education 1.30
+ Grigg 1.10
+ Health 0.70
+
+Belk Duke Education 0.90000004
+
+Health Belk Duke Education 1.4000001
+
+Health Woodward Duke Education 1.6700001
+
+
+Belk DOWN
+ Duke 0.60
+ Grigg 1.20
+ Health 0.50
+ Woodward 0.25
+
+Duke
+ Belk 0.60
+ Education 0.30
+ Grigg 1.60
+ Woodward 0.67
+
+Education
+ Duke 0.30
+ Health 0.45
+ Woodward 1.30
+
+Grigg
+ Belk 1.20
+ Duke 1.60
+ Woodward 1.10
+
+Health
+ Belk 0.50
+ Education 0.45 DOWN
+ Woodward 0.70
+
+Woodward
+ Belk 0.25
+ Duke 0.67
+ Education 1.30
+ Grigg 1.10
+ Health 0.70
+
+Duke
+ Education
+ Grigg
+ Health
+ Woodward
+Education
+ Duke
+ Grigg
+ Health
+ Woodward
+Grigg
+ Duke
+ Education
+ Health
+ Woodward
+Health
+ Duke
+ Education
+ Grigg
+ Woodward
+Woodward
+ Duke
+ Education
+ Grigg
+ Health
+Belk Health Education 0.95
+
+Education Duke Belk 0.90000004
+
+Belk Woodward Education Atkins 1.1
+
+
+Atkins
+
+Belk
+ Duke 0.60
+ Grigg 1.20
+ Health 0.50
+ Woodward 0.25
+
+Duke
+ Belk 0.60
+ Grigg 1.60
+ Woodward 0.67
+
+Education
+ Atkins 0.25
+ Duke 0.30
+ Health 0.45
+ Woodward 1.30
+
+Grigg
+ Belk 1.20
+ Duke 1.60
+ Woodward 1.10
+
+Health
+ Belk 0.50
+ Education 0.45
+ Woodward 0.70
+
+Woodward
+ Belk 0.25
+ Duke 0.67
+ Education 0.60
+ Grigg 1.10
+ Health 0.70
+
